@@ -11,7 +11,7 @@ TALKY allows anyone, like you, to publish blogs without having to undergo any va
 Clone the project into your desired folder using the following command
 
 ```
-git clone
+git clone https://github.com/JOSEPHOMOTOSHO/talky.git
 ```
 
 Next, install the required modules using npm as
